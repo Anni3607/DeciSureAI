@@ -49,8 +49,5 @@ The project is designed to demonstrate both technical skills and innovation, mak
 - pandas
 - numpy
 
-### Installation
-Clone the repository and install dependencies:
-```bash
-pip install -r requirements.txt
+
 
